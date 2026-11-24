@@ -1,3 +1,4 @@
+# The entry text below is checked against the competition's 180-character gate.
 """Write the AI dating-bio entry to entry.txt in the output directory.
 
 The output directory is $MAKEFUN_OUTPUT_DIR when set and non-empty,
